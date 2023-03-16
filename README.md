@@ -1,6 +1,6 @@
-# Bitrix24 side processing api
+# Backend API for cloud Bitrix24
 
-Laravel like api для работы с облачным bitrix24
+Laravel like backend api для работы с облачным bitrix24
 
 **Подойдет для:**
 - Внешняя обработка данных в облачном bitrix24
